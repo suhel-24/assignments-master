@@ -1,3 +1,15 @@
+welcome to this repo
+
+this is the assignment from cohort 2.0 of harkirat singh
+
+
+its an excellent assignment
+
+
+enjoyed doing it
+
+
+
 ## JavaScript Assignments
 
 You are provided empty JavaScript files (or having function signatures) in this directory. 
